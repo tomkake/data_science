@@ -169,3 +169,4 @@ hydra-login-consent-node
 packrd/
 
 *.pth
+outputs/
